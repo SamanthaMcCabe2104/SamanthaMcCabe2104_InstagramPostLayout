@@ -1,0 +1,96 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+}
+
+.container {
+    background-color: white;
+    width: 35%;
+    margin: 5% auto;
+}
+
+.header {
+    width: 100%;
+    display: inline;
+    line-height: 0px;
+}
+
+.postIcon {
+    width: 2%;
+    float: left;
+    padding-top: 42px;
+    padding-left: 15px;
+}
+
+.posterIcon i {
+    width: 60%;
+    height: 60%;
+    padding: 12px;
+    margin-top: 25px;
+}
+
+.posterName {
+    width: 10%;
+    float: left;
+    margin-bottom: 10px;
+    padding-left: 25px;
+    margin-top: 15px;
+}
+
+.notBold {
+    font-weight: normal;
+}
+
+
+.headerOptions {
+    float: right;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+
+.image img {
+    height: 50%;
+    width: 100%;
+}
+
+.postIcons {
+    margin: 2px;
+    width: 100%;
+    margin: auto;
+    display: inline-block;
+}
+
+.leftIconSet {
+    padding-left: 12px;
+}
+
+.leftIcons {
+    float: left;
+    padding: 20px 0px 10px 7px;
+    box-sizing: border-box;
+}
+
+.bookmark {
+    float: right;
+    padding: 20px 20px 10px 10px;
+    box-sizing: border-box;
+}
+
+.likes {
+    width: 100%;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.PostBody {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    padding-top: 0px;
+}
+
+.bold {
+    font-weight: bold;
+}
